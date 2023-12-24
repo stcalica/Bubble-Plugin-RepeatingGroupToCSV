@@ -1,0 +1,32 @@
+{
+    "category": "plugins",
+    "display": "Scrape Repeating Group",
+    "fields": {
+        "AAD": {
+            "caption": "repeating group ID",
+            "doc": "Set this in ID Attribute in Editor under Appearance",
+            "editor": "StaticText",
+            "long_text": false,
+            "name": "repeating_group_id",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "Column Names as Text List ( , )",
+            "doc": "(DOES NOT WORK YET) Seperate by commas (,)",
+            "editor": "StaticText",
+            "name": "column_names",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "AAF": {
+            "caption": "Column Names as Key/Value Array",
+            "doc": "(DOES NOT WORK YET)",
+            "editor": "key_value_list",
+            "name": "column__names_as_array",
+            "rank": 2,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

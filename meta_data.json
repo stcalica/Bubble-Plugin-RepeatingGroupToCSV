@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "description": "Export repeating group text to CSV \n\nCOMING SOON: \n\n- give your csv custom column names \n- create a csv through key/values pairs ",
+    "image": "//meta-q.cdn.bubble.io/f1703379397628x789512514391688000/extract%20data%20to%20csv%20%20icon.png",
+    "license": "open_source",
+    "name": "RepeatingGroupToCSV",
+    "plugin_instructions": "1. Give your Bubble element an ID Attribute in the Editor under Appearance \n2. Add this ID Attribute in the Workflow "
+}
