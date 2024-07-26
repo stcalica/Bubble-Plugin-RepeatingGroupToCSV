@@ -20,7 +20,7 @@
             "value": "text"
         },
         "AAF": {
-            "caption": "Column Names as Key/Value Array",
+            "caption": "Columns as Key/Value Array",
             "doc": "(DOES NOT WORK YET)",
             "editor": "key_value_list",
             "name": "column__names_as_array",
